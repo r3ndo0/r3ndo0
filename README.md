@@ -54,7 +54,7 @@
 </p>
 
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=r3ndo0&theme=merko&hide_border=true&point=68b487&title_color=aad100&color=68b487&radius=6)](https://github.com/r3ndo0/github-readme-activity-graph)
+
 
 ------
 
